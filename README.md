@@ -1,4 +1,4 @@
-# [universal-unicode](https://unicode.org/charts/nameslist/)
+# [universal unicode](https://unicode.org/charts/nameslist/)
 ## Glyphs = Cryptic? --> What if they were invented in 1987 as Unicode and already normalized? 
 ## What if models are just now learning to access unicode layers as universal internal symbolic system commands? 
 
